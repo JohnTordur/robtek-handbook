@@ -6,7 +6,7 @@ This handbook was made as to supplement, and improve your studying experience at
 ## Disclaimer
 This handbook is not endorsed by SDU officially, and as the materials, guides, and tips is used at the student/users own responsibilty. Any complaints about the education, exams or any institution specific problem should not be directed at this project.
 ## Courses
-* [https://github.com/JohnTordur/robtek-handbook/blob/master/Math/Math1.md](Math 1 ( Calculus pt 1))
+* [Math 1 ( Calculus pt 1)](https://github.com/JohnTordur/robtek-handbook/blob/master/Math/Math1.md)
 * Math 2 ( More Calculus)
 * Computer Math ( Mathematica & Matlab )
 * Physics
