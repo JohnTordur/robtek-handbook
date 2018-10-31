@@ -27,3 +27,15 @@ This handbook is not endorsed by SDU officially, and as the materials, guides, a
 * Robots In Context
 * Numerical Methods
 * Scientific Theory
+### Elective Courses
+* Project Managment
+* Linux on Embedded Objects
+* Underactuated Robotics
+* Sensation Perception and Cognitition
+### Projects
+1. Basic Control of robots
+2. Autonomous Robots
+3. Mobile Robots
+4. Regulators and Controllers
+5. EIT until 2018 2018-??
+6. Bachelor thesis
